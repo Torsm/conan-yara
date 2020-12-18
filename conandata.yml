@@ -1,0 +1,4 @@
+sources:
+  4.0.2:
+    url: "https://github.com/VirusTotal/yara/archive/v4.0.2.tar.gz"
+    sha256: "05AD88EAC9A9F0232432FD14516BDAEDA14349D6CF0CAC802D76E369ABCEE001"
